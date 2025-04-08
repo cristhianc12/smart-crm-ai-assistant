@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"openai": "^4.92.0",
+		"mcp-sdk": "^0.1.0"
+	}
+}
